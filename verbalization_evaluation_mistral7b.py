@@ -99,7 +99,7 @@ def main(json_file, entity2text_file):
 
 
 # Call the main function with the paths to the JSON file and entity2text mapping file
-json_file_path = 'outputs/wn18rr/all_test/Mistral7b_10/output_mistral7b_10.txt'
+json_file_path = 'outputs/wn18rr/100_test/Efficient_demonstration_steps/output_tail_mistral8x7b_test_50can_eff_demon_step6.txt'
 
 entity2text_file_path = 'dataset/wn18rr/entity2text.txt'
 

@@ -1,0 +1,152 @@
+[
+ {
+  "ID": 75,
+  "HeadEntity": "06083243",
+  "Answer": "10806222",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 76,
+  "HeadEntity": "08900535",
+  "Answer": "08903220",
+  "Question": "_has_part"
+ },
+ {
+  "ID": 77,
+  "HeadEntity": "00353992",
+  "Answer": "00493703",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 78,
+  "HeadEntity": "00043902",
+  "Answer": "00471613",
+  "Question": "_synset_domain_topic_of"
+ },
+ {
+  "ID": 79,
+  "HeadEntity": "02641035",
+  "Answer": "01062817",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 80,
+  "HeadEntity": "01951276",
+  "Answer": "01953810",
+  "Question": "_hypernym"
+ },
+ {
+  "ID": 81,
+  "HeadEntity": "05154517",
+  "Answer": "04723816",
+  "Question": "_hypernym"
+ },
+ {
+  "ID": 82,
+  "HeadEntity": "02490004",
+  "Answer": "02488834",
+  "Question": "_hypernym"
+ },
+ {
+  "ID": 83,
+  "HeadEntity": "02040505",
+  "Answer": "02021795",
+  "Question": "_hypernym"
+ },
+ {
+  "ID": 84,
+  "HeadEntity": "10826352",
+  "Answer": "09989502",
+  "Question": "_instance_hypernym"
+ },
+ {
+  "ID": 85,
+  "HeadEntity": "08541288",
+  "Answer": "00195342",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 86,
+  "HeadEntity": "00740342",
+  "Answer": "08441203",
+  "Question": "_synset_domain_topic_of"
+ },
+ {
+  "ID": 87,
+  "HeadEntity": "01463963",
+  "Answer": "05075602",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 88,
+  "HeadEntity": "01170243",
+  "Answer": "14447908",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 89,
+  "HeadEntity": "07434102",
+  "Answer": "07433973",
+  "Question": "_hypernym"
+ },
+ {
+  "ID": 90,
+  "HeadEntity": "02156546",
+  "Answer": "02609764",
+  "Question": "_hypernym"
+ },
+ {
+  "ID": 91,
+  "HeadEntity": "08919949",
+  "Answer": "09697070",
+  "Question": "_member_meronym"
+ },
+ {
+  "ID": 92,
+  "HeadEntity": "11020721",
+  "Answer": "10624540",
+  "Question": "_instance_hypernym"
+ },
+ {
+  "ID": 93,
+  "HeadEntity": "08806897",
+  "Answer": "08807554",
+  "Question": "_has_part"
+ },
+ {
+  "ID": 94,
+  "HeadEntity": "02208118",
+  "Answer": "02311387",
+  "Question": "_also_see"
+ },
+ {
+  "ID": 95,
+  "HeadEntity": "06389753",
+  "Answer": "01745377",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 96,
+  "HeadEntity": "11746776",
+  "Answer": "12539306",
+  "Question": "_member_meronym"
+ },
+ {
+  "ID": 97,
+  "HeadEntity": "00626428",
+  "Answer": "10508710",
+  "Question": "_derivationally_related_form"
+ },
+ {
+  "ID": 98,
+  "HeadEntity": "00118733",
+  "Answer": "00116687",
+  "Question": "_hypernym"
+ },
+ {
+  "ID": 99,
+  "HeadEntity": "02081178",
+  "Answer": "08617963",
+  "Question": "_derivationally_related_form"
+ }
+]
